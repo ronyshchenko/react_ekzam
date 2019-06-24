@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/react_ekzam/static/css/main.2cce8147.chunk.css",
-    "main.js": "/react_ekzam/static/js/main.0ec8e34a.chunk.js",
-    "main.js.map": "/react_ekzam/static/js/main.0ec8e34a.chunk.js.map",
+    "main.css": "/react_ekzam/static/css/main.2f32d235.chunk.css",
+    "main.js": "/react_ekzam/static/js/main.79e0d11a.chunk.js",
+    "main.js.map": "/react_ekzam/static/js/main.79e0d11a.chunk.js.map",
     "runtime~main.js": "/react_ekzam/static/js/runtime~main.8621006b.js",
     "runtime~main.js.map": "/react_ekzam/static/js/runtime~main.8621006b.js.map",
-    "static/js/2.b41502e9.chunk.js": "/react_ekzam/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/react_ekzam/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.ccb108a6.chunk.js": "/react_ekzam/static/js/2.ccb108a6.chunk.js",
+    "static/js/2.ccb108a6.chunk.js.map": "/react_ekzam/static/js/2.ccb108a6.chunk.js.map",
     "index.html": "/react_ekzam/index.html",
-    "precache-manifest.33eff11e28de0e1e2406f2334e533939.js": "/react_ekzam/precache-manifest.33eff11e28de0e1e2406f2334e533939.js",
+    "precache-manifest.26a14866ca357b19adc20465120ad43d.js": "/react_ekzam/precache-manifest.26a14866ca357b19adc20465120ad43d.js",
     "service-worker.js": "/react_ekzam/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/react_ekzam/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/react_ekzam/static/media/logo.5d5d9eef.svg"
+    "static/css/main.2f32d235.chunk.css.map": "/react_ekzam/static/css/main.2f32d235.chunk.css.map"
   }
 }
