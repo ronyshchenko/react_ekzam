@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f434757bbe1855186e778764c7309e5",
+    "revision": "fe84e255da97c6f3964d145840515866",
     "url": "/ronyshchenko.github.io/react_exam/index.html"
   },
   {
-    "revision": "d44511df85966ea4e019",
+    "revision": "1b0726256d7e1753e810",
     "url": "/ronyshchenko.github.io/react_exam/static/css/main.2f32d235.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ronyshchenko.github.io/react_exam/static/js/2.ccb108a6.chunk.js"
   },
   {
-    "revision": "d44511df85966ea4e019",
-    "url": "/ronyshchenko.github.io/react_exam/static/js/main.e42d5b9e.chunk.js"
+    "revision": "1b0726256d7e1753e810",
+    "url": "/ronyshchenko.github.io/react_exam/static/js/main.79e0d11a.chunk.js"
   },
   {
     "revision": "6f8a42ee322a558aeba1",
