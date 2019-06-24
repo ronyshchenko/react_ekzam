@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68749ffe8f0466fde6dd775a36a040d3",
+    "revision": "2df0e299cabeaa78b2195ff252a72319",
     "url": "/react_ekzam/index.html"
   },
   {
-    "revision": "1b0726256d7e1753e810",
+    "revision": "d44511df85966ea4e019",
     "url": "/react_ekzam/static/css/main.2f32d235.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_ekzam/static/js/2.ccb108a6.chunk.js"
   },
   {
-    "revision": "1b0726256d7e1753e810",
-    "url": "/react_ekzam/static/js/main.79e0d11a.chunk.js"
+    "revision": "d44511df85966ea4e019",
+    "url": "/react_ekzam/static/js/main.e42d5b9e.chunk.js"
   },
   {
     "revision": "d8274f03da7177fd0def",
